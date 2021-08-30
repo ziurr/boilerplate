@@ -27,6 +27,9 @@
     ]
   },
   "projects": {
+    "nest-api": {
+      "tags": []
+    },
     "trailing": {
       "tags": []
     },
